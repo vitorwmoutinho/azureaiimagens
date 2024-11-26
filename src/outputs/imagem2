@@ -1,0 +1,21 @@
+{
+    "frutas": [
+        {
+            "tipo": "laranja",
+            "cor": "laranja",
+            "tamanho": "grande"
+        },
+        {
+            "tipo": "maçã",
+            "cor": "vermelha",
+            "tamanho": "médio"
+        },
+        {
+            "tipo": "laranja",
+            "cor": "laranja",
+            "tamanho": "grande"
+        }
+    ],
+    "fundo": "branco",
+    "disposição": "horizontal"
+}
